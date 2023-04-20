@@ -6,7 +6,6 @@ import sys
 program = sys.argv[1]
 username = sys.argv[2]
 
-
 passwords = [
     '1',
     '12',
